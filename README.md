@@ -1,6 +1,6 @@
-# README #
+# Linear Algebra Solver #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is a small application that helps you solve system of linear equations. It takes in Matrix A and Matrix B from the user and calculates Matrix X according to AX=B.
 
 ### How to start the application? ###
 
@@ -10,7 +10,7 @@ This README would normally document whatever steps are necessary to get your app
 ```
 * The application will automatically get compiled and it will open
 
-### How to use application? ###
+### How to use the application? ###
 * Enter the value of no.of equations in the system to be solved. This value should be given in n
 * Enter all the coefficients of variables of system of linear equations in Matrix A
 * Similarly fill the entries in Matrix B
